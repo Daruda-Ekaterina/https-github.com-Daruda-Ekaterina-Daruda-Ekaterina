@@ -3,8 +3,7 @@
 
 📊 Анализирую данные, ищу закономерности и отклонения, работаю с показателями и визуализацией данных.
 
-🛠 Использую SQL, PostgreSQL, Python (Pandas, NumPy, SciPy), Jupyter Notebook, Yandex DataLens и Apache Superset.
-
+🛠 Использую:
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
